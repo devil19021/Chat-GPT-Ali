@@ -69,7 +69,7 @@ function LeftNav() {
         <span className="rounded w-full py-2 px-2 text-xs flex gap-1 items-center justify-between cursor-pointer hover:bg-gray-800 transition-all duration-300">
           <span className="flex gap-2 items-center justify-center text-sm font-bold">
             <img
-              src="/user.jpeg"
+              src="/user.jpg"
               alt="user"
               className="w-8 h-8 object-cover rounded-sm"
             />
