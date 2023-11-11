@@ -60,10 +60,10 @@ function LeftNav() {
         <span className="rounded w-full py-2 px-2 text-xs flex gap-1 items-center justify-between cursor-pointer hover:bg-gray-800 transition-all duration-300">
           <span className="flex gap-1 items-center justify-center text-sm">
             <FiUser />
-            Upgrade to Plus
+            
           </span>
           <span className="rounded-md bg-yellow-200 px-1.5 py-0.5 text-xs font-medium uppercase text-gray-800">
-            NEW
+            
           </span>
         </span>
         <span className="rounded w-full py-2 px-2 text-xs flex gap-1 items-center justify-between cursor-pointer hover:bg-gray-800 transition-all duration-300">
@@ -73,7 +73,7 @@ function LeftNav() {
               alt="user"
               className="w-8 h-8 object-cover rounded-sm"
             />
-            Ritesh
+            Tausif
           </span>
           <span className="rounded-md  px-1.5 py-0.5 text-xs font-medium uppercase text-gray-500">
             <SlOptions />
